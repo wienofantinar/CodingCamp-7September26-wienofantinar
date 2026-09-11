@@ -1,0 +1,802 @@
+{
+  "pbtResults": {
+    "4.2 Write property test for `_formatTime` (Property 1)": {
+      "status": "passed",
+      "lastRunTimestamp": 1789049650985
+    }
+  },
+  "executionHistory": {
+    "1.1 Create the three required production files: `index.html`, `css/style.css`, `js/app.js`": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048870821
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048888458
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048933079
+      }
+    ],
+    "1.2 Add the four widget `<section>` skeletons in `index.html`": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048871010
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048937648
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049008850
+      }
+    ],
+    "1.3 Set up the `App` namespace and `DOMContentLoaded` initialisation entry point in `app.js`": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048871211
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048938063
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049009154
+      }
+    ],
+    "2.1 Define CSS custom properties (design tokens) and base reset": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048871336
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049014694
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049074870
+      }
+    ],
+    "2.2 Implement the three-breakpoint CSS Grid dashboard layout": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048871429
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049085527
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049204117
+      }
+    ],
+    "2.3 Write widget card styles (background, border-radius, spacing, title typography)": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048871532
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049086086
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049205009
+      }
+    ],
+    "2.4 Write interactive element styles: buttons, inputs, checkboxes, error messages": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048871637
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049211473
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049291712
+      }
+    ],
+    "3.1 Implement `App.Storage.get(key, fallback)` and `App.Storage.set(key, value)`": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048871746
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049014960
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049076538
+      }
+    ],
+    "3.2 Write unit tests for `App.Storage`": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048871847
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049087404
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049205720
+      }
+    ],
+    "4.1 Implement `App.GreetingWidget` with `init()`, `update()`, `_formatTime(date)`, `_formatDate(date)`, `_getGreeting(hour)`": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048871938
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049212106
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049291113
+      }
+    ],
+    "4.2 Write property test for `_formatTime` (Property 1)": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048872031
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049603760
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049714292
+      }
+    ],
+    "4.3 Write property test for `_formatDate` (Property 2)": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048872133
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049604180
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049714942
+      }
+    ],
+    "4.4 Write property test for `_getGreeting` (Property 3)": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048872212
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049604285
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049715598
+      }
+    ],
+    "4.5 Write unit tests for Greeting Widget": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048872315
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049611866
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049716196
+      }
+    ],
+    "5.1 Implement `App.Timer` module with `init()`, `start()`, `stop()`, `reset()`, `tick()`, and `_formatDisplay(seconds)`": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048872432
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049612510
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049717356
+      }
+    ],
+    "5.2 Write property test for `_formatDisplay` (Property 5)": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048872529
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049723319
+      }
+    ],
+    "5.3 Write property test for `tick()` decrement (Property 4)": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048872662
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049723959
+      }
+    ],
+    "5.4 Write property test for `reset()` (Property 6)": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048872762
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049724604
+      }
+    ],
+    "5.5 Write property test for button state invariant (Property 7)": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048872861
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049725260
+      }
+    ],
+    "5.6 Write unit tests for Focus Timer": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048872957
+      },
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049725691
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053191948
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053202619
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053293872
+      }
+    ],
+    "6.1 Implement `App.TaskManager.init()` — load and render tasks from localStorage": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048873063
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053192053
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053202848
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053294515
+      }
+    ],
+    "6.2 Implement `App.TaskManager.addTask(text)` — validation, Task object creation, persistence": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048873161
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053192157
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053306746
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053407448
+      }
+    ],
+    "6.3 Implement `App.TaskManager.render()` — build task list DOM from in-memory array": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048873280
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053192261
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053306948
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053406586
+      }
+    ],
+    "6.4 Implement `App.TaskManager.toggleTask(id)` — flip done/undone and persist": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048873380
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053192348
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053413028
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053484209
+      }
+    ],
+    "6.5 Implement `App.TaskManager.deleteTask(id)` — remove task and persist": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048873479
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053192456
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053413602
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053485109
+      }
+    ],
+    "6.6 Implement `App.TaskManager.editTask(id, text)` and inline edit mode UI": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048873579
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053192564
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053414019
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053485744
+      }
+    ],
+    "6.7 Implement `App.TaskManager._save()` — write full task array to localStorage": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048873691
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053192666
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053493153
+      }
+    ],
+    "7. Checkpoint — ensure Task Manager renders, CRUD works, and localStorage persists across page reloads": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048873799
+      }
+    ],
+    "8.1 Implement `App.QuickLinks.init()` — load and render links from localStorage": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048873914
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053193146
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053501291
+      }
+    ],
+    "8.2 Implement `App.QuickLinks.addLink(label, url)` — validation, Link object creation, persistence": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048874032
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053193277
+      }
+    ],
+    "8.3 Implement `App.QuickLinks.deleteLink(id)` — remove link and persist": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048874147
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053193375
+      }
+    ],
+    "8.4 Implement `App.QuickLinks.render()` — build link button list from in-memory array": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048874262
+      }
+    ],
+    "8.5 Implement `App.QuickLinks._save()` — write full link array to localStorage": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048874347
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053193594
+      }
+    ],
+    "9. Checkpoint — ensure Quick Links renders, add/delete works, 20-cap enforced, and localStorage persists across reloads": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048874446
+      }
+    ],
+    "10.1 Create `test/index.html` test harness loading Jasmine and fast-check from CDN": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048874553
+      }
+    ],
+    "10.2 Write property tests for Storage, GreetingWidget, and Timer modules in `test/tests.js`": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048874655
+      }
+    ],
+    "10.3 Write property tests for Task Manager in `test/tests.js`": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048874765
+      }
+    ],
+    "10.4 Write property tests for Quick Links in `test/tests.js`": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048874864
+      }
+    ],
+    "10.5 Write unit tests covering example-based and edge cases in `test/tests.js`": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048875000
+      }
+    ],
+    "11. Final checkpoint — run test harness and verify all property + unit tests pass": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789048875162
+      }
+    ],
+    "1. Scaffold project structure and HTML skeleton": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049009255
+      }
+    ],
+    "3. Storage utility module": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049205889
+      }
+    ],
+    "2. CSS theme, layout, and responsive grid": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049291808
+      }
+    ],
+    "4. Greeting Widget": [
+      {
+        "executionId": "40ee6747-98e1-45a2-bb05-6cd17fb204f9",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789049716292
+      }
+    ],
+    "6.8 Implement filter/sort bar — All / Active / Completed tabs + task count badge": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053192792
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053494115
+      }
+    ],
+    "6.9 Implement drag-to-reorder for tasks": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053192905
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053494545
+      }
+    ],
+    "7. Checkpoint — ensure Task Manager renders, CRUD works, filters work, and localStorage persists across page reloads": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053193023
+      },
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053500954
+      }
+    ],
+    "8.4 Implement `App.QuickLinks.render()` — build link button grid from in-memory array": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053193483
+      }
+    ],
+    "8.6 Implement `Ctrl/Cmd + K` keyboard shortcut — focus URL input and scroll to widget": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053193707
+      }
+    ],
+    "9. Checkpoint — ensure Quick Links renders, add/delete works, 20-cap enforced, grid layout correct, and localStorage persists across reloads": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053193822
+      }
+    ],
+    "10.1 Add Google Fonts (`Inter`) and update font token": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053193912
+      }
+    ],
+    "10.2 Add SEO meta tags, Open Graph tags, theme-color, and emoji favicon": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053194041
+      }
+    ],
+    "10.3 Accessibility pass — ARIA roles, live regions, and label associations": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053194156
+      }
+    ],
+    "10.4 Greeting widget visual upgrade — hero typography": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053194254
+      }
+    ],
+    "10.5 Timer SVG progress ring": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053194359
+      }
+    ],
+    "10.6 Micro-animations — fade-in-up for widget content, card hover lift": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053194460
+      }
+    ],
+    "10.7 Scrollable task list with custom scrollbar": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053194562
+      }
+    ],
+    "10.8 Quick links grid layout in CSS": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053194652
+      }
+    ],
+    "10.9 Register Service Worker for offline-first support": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053194752
+      }
+    ],
+    "11.6 Write unit tests for Focus Timer (task 5.6)": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053194854
+      }
+    ],
+    "11.7 Write property tests for Task Manager (Properties 8–15)": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053194945
+      }
+    ],
+    "11.8 Write property tests for Quick Links (Properties 16–20)": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053195055
+      }
+    ],
+    "11.9 Write unit tests for all edge cases (task 10.5)": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053195154
+      }
+    ],
+    "12. Final checkpoint — run test harness, verify all property + unit tests pass, do a full visual QA pass": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053195289
+      }
+    ],
+    "5. Focus Timer": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053294066
+      }
+    ],
+    "6. Task Manager — core implementation": [
+      {
+        "executionId": "4ad8b3d9-aef1-4bc1-b293-d0512432153f",
+        "chatSessionId": "sess_3ee0009b-cd42-41a3-a328-d915045cfa51",
+        "timestamp": 1789053494698
+      }
+    ]
+  }
+}
